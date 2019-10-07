@@ -12,4 +12,8 @@ public class Calculator {
         return firstNum * secondNum;
     }
 
+    public double divide(double firstNum, double secondNum){
+        return firstNum / secondNum;
+    }
+
 }
